@@ -1,5 +1,6 @@
 # BobTheBuilderB.github.io 
-Url - https://bobthebuilderb.github.io
+  Github Website - https://bobthebuilderb.github.io/
+  Vercel Website - https://bobthebuilderb.vercel.app/
 
 # Other Websites By BobTheBuilderB
   Eaglercraft Central:
