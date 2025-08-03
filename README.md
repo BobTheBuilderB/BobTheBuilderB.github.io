@@ -9,6 +9,7 @@
 
 # Other Websites By BobTheBuilderB
   Eaglercraft Central:
+    
     Urls:
       
       Github Website - https://bobthebuilder.github.io/eaglercraftcentral/
@@ -17,7 +18,8 @@
 
  
   Eaglerserver-List:
-    Url:
+    
+    Urls:
       
       Github Website - https://bobthebuilder.github.io/eaglerserverlist/
       
