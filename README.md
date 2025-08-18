@@ -22,6 +22,6 @@
     
     Urls:
       
-      Github Website - https://bobthebuilder.github.io/eaglerserverlist/
+      Github Website - https://bobthebuilder.github.io/eaglercraftservers/
       
-      Vercel Website - https://eaglerserverlist-zeta.vercel.app/
+      Vercel Website - https://eaglercraftservers.vercel.app/
